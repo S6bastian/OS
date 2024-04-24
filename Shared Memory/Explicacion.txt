@@ -1,0 +1,12 @@
+sm_0.c // Separa la memoria
+sm_1.c // Escribe el abecedario
+sm_2.c // Imprime cada elemento del abecedario, osea de la memoria,
+	  finaliza el busywait del sm_1.c
+	  Si se ejecuta más veces imprime el abecedario pero el primero elemento es modificado a '*'
+
+
+Comando útiles:
+
+ipcs // Da todos los ipc
+ipcrm -h // Da la lista de comandos de ipcrm
+ipcrm -m "id" // Para remover un ipc
