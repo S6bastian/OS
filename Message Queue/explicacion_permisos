@@ -1,0 +1,9 @@
+   owner  group  others
+__ rwx     rwx    rwx
+   111     011    100 //permisos
+   7 	     3      4
+   
+chmod 0734 file
+
+motivo del msgget(key, 0666) //__ rw0 rw0 rw0  
+
