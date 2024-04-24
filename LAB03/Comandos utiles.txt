@@ -1,0 +1,7 @@
+sudo su root // ir al root
+adduser
+su //para elegir a que usuario nos vamos
+sudo usermod -aG sebastian ucsp
+
+
+// 900 es el cielo
